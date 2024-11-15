@@ -1,0 +1,14 @@
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\bin\Debug\net8.0\vp assignment.exe
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\bin\Debug\net8.0\vp assignment.deps.json
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\bin\Debug\net8.0\vp assignment.runtimeconfig.json
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\bin\Debug\net8.0\vp assignment.dll
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\bin\Debug\net8.0\vp assignment.pdb
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.AssemblyInfoInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.AssemblyInfo.cs
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.csproj.CoreCompileInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.dll
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\refint\vp assignment.dll
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.pdb
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\vp assignment.genruntimeconfig.cache
+C:\Users\Fazeel Nadeem\source\repos\vp assignment\vp assignment\obj\Debug\net8.0\ref\vp assignment.dll
